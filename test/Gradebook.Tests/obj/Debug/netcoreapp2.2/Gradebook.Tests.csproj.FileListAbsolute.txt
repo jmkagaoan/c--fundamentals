@@ -1,0 +1,17 @@
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.2\Gradebook.Tests.deps.json
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.2\Gradebook.Tests.runtimeconfig.json
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.2\Gradebook.Tests.runtimeconfig.dev.json
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.2\Gradebook.Tests.dll
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.2\Gradebook.Tests.pdb
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.2\Gradebook.dll
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.2\Gradebook.pdb
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.2\Gradebook.Tests.csprojAssemblyReference.cache
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.2\Gradebook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.2\Gradebook.Tests.AssemblyInfoInputs.cache
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.2\Gradebook.Tests.AssemblyInfo.cs
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.2\Gradebook.Tests.csproj.CopyComplete
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.2\Gradebook.Tests.dll
+C:\Users\jan.kagaoan\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.2\Gradebook.Tests.pdb

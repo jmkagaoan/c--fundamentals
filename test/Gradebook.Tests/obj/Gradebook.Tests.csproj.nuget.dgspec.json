@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jan.kagaoan\\gradebook\\test\\Gradebook.Tests\\Gradebook.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jan.kagaoan\\gradebook\\src\\Gradebook\\Gradebook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jan.kagaoan\\gradebook\\src\\Gradebook\\Gradebook.csproj",
+        "projectName": "Gradebook",
+        "projectPath": "C:\\Users\\jan.kagaoan\\gradebook\\src\\Gradebook\\Gradebook.csproj",
+        "packagesPath": "C:\\Users\\jan.kagaoan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jan.kagaoan\\gradebook\\src\\Gradebook\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jan.kagaoan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://rockendproject.pkgs.visualstudio.com/_packaging/rockend/nuget/v3/index.json": {},
+          "https://www.myget.org/F/rockend/auth/55b298d2-57bd-47c0-a339-a13481c4462a/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\jan.kagaoan\\gradebook\\test\\Gradebook.Tests\\Gradebook.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jan.kagaoan\\gradebook\\test\\Gradebook.Tests\\Gradebook.Tests.csproj",
+        "projectName": "Gradebook.Tests",
+        "projectPath": "C:\\Users\\jan.kagaoan\\gradebook\\test\\Gradebook.Tests\\Gradebook.Tests.csproj",
+        "packagesPath": "C:\\Users\\jan.kagaoan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jan.kagaoan\\gradebook\\test\\Gradebook.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jan.kagaoan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://rockendproject.pkgs.visualstudio.com/_packaging/rockend/nuget/v3/index.json": {},
+          "https://www.myget.org/F/rockend/auth/55b298d2-57bd-47c0-a339-a13481c4462a/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\jan.kagaoan\\gradebook\\src\\Gradebook\\Gradebook.csproj": {
+                "projectPath": "C:\\Users\\jan.kagaoan\\gradebook\\src\\Gradebook\\Gradebook.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
